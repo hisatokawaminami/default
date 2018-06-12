@@ -1,12 +1,20 @@
-# Epicodus Ready to Use Folder
+# Epicodus Week 4 Day1 Place You've Been
 
 ## Created
 
-05/31/2018
+06/11/2018
 
 ## About
 
-Create an default folder
+Create a webpage for Place You've been
+
+## Spec
+
+|Behavior|Example Input|Example Output|
+|:--------|:-------------:|:--------------:|
+|Build a constructor that will take user input| City: Seattle| Seattle|
+|Store multiple info on page|City, Landmark|Seattle, Space needle|
+|The stored info will be clickable to display the detail|Seattle|Seattle, Spaceneedle
 
 ## Technology Used
 
@@ -14,8 +22,10 @@ HTML, CSS, Javascript, jQuery
 
 ## Installation
 Clone from: https://github.com/hisatokawaminami/default
+https://github.com/hisatokawaminami/default
 
 ## Credits
+Austin Barr
 Hisato Kawaminami
 
 
